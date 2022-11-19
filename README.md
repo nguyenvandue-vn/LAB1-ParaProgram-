@@ -4,7 +4,8 @@
 Выходные данные: файл со значениями результирующей матрицы, время выполнения, объем задачи.
 Обязательна автоматизированная верификация результатов вычислений с помощью сторонних библиотек или стороннего ПО (например Matlab).
 
-Time without 
+Time without:
+
 Matrix's size is: 100 Def meth's time: 5
 
 Matrix's size is: 200 Def meth's time: 22
@@ -27,4 +28,5 @@ Matrix's size is: 1000 Def meth's time: 248
 
 
 ![image](https://user-images.githubusercontent.com/92180501/202840165-06dc647e-2d06-4287-9870-0f433267ce80.png)
+
 Выводы: время пропорционально объему
